@@ -1,0 +1,22 @@
+h1{
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #8000ff;
+}
+
+.img-center{
+
+}
+
+.icon{
+    width: 150px;
+    height: 150px;
+}
+
+.cards{
+    margin: 10px;
+}
+
+.font-change{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
